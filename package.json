@@ -1,0 +1,34 @@
+{
+    "name": "Express API BFS",
+    "version": "1.0.0",
+    "description": "MondogoDB BFS ",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "keywords": [
+        "Fest",
+        "IIT",
+        "Mandi"
+    ],
+    "author": "Surendra Singh",
+    "license": "ISC",
+    "homepage": "",
+    "dependencies": {
+        "body-parser": "^1.20.0",
+        "connect-mongo": "^4.6.0",
+        "dotenv": "^16.0.0",
+        "ejs": "^3.0.2",
+        "express": "^4.17.1",
+        "express-seo": "^0.0.1",
+        "express-session": "^1.17.2",
+        "mongoose": "^6.3.0",
+        "nanoid": "^3.3.3",
+        "nodemon": "^2.0.15"
+    }
+}
